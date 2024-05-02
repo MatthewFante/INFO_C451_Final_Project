@@ -22,7 +22,7 @@ _No unit tests have been designed for this app yet... Check back later!_
 ## Guest User Tests
 - Browse Adoptable Pets
     - [x] Test if guest users can view the list of adoptable pets.
-    - [x] Test if guest users can filter the list based on various criteria (e.g., species, breed).
+    - [] Test if guest users can filter the list based on various criteria (e.g., species, breed).
 - View Animal Profiles
     - [x] Test if guest users can access individual pet profiles.
     - [x] Test if pet profiles display correct information (e.g., photos, descriptions).
