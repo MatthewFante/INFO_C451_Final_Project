@@ -7,7 +7,7 @@
 Here are sample objects for each datatype that's written to FireBase: 
 
 
-## meet_and_greet_request
+## meet_and_greet_requests
 
 <pre>
 {
@@ -21,14 +21,13 @@ Here are sample objects for each datatype that's written to FireBase:
     "requesterId": "VYg6KFRzDaWr1daOEfcMRAolIap1",
     "status": "approved",
     "updateDate": "2024-04-30T11:36:37.866817",
-},
-
+}
 </pre>
 
-## pet
+## pets
 
 <pre>
-{  
+{ 
     "age":
         "months": 4,
         "years": 10,
@@ -45,8 +44,37 @@ Here are sample objects for each datatype that's written to FireBase:
     "sex": "Female" 
     "size": "Large"
     "species": "Reptile"
+}
+</pre>
 
-},
+## upgrade_requests
 
+<pre>
+{
+    "requestId" : "5aEW94A8tBG34SzFu1oH"
+    "requestTime" : "April 29, 2024 at 2:23:00 PM UTC-4"
+    "status" : "rejected"
+    "uid" : "VYg6KFRzDaWr1daOEfcMRAolIap1"
+}
+</pre>
 
+## user_profiles
+
+<pre>
+{
+  "address": "555 Main Street",
+  "bio": "We are so excited to connect you with your new best friend!",
+  "city": "Louisville",
+  "displayName": "Happy Pets Shelter",
+  "email": "shelter@test.com",
+  "favoritePets": null,
+  "hoursOfOperation": "8-5pm Monday-Friday",
+  "phoneNumber": "5551234567",
+  "profilePictureUrl": "https://as2.ftcdn.net/v2/jpg/02/33/99/59/1000_F_233995940_808BmDwI25yp0FGWrxMVnKTNvMcivzLu.jpg",
+  "state": "KY",
+  "userId": "UNCWfcE3FaaNpitLmoIY0Mp46Wp2",
+  "userType": "shelter",
+  "website": "www.happypetsshelter.com",
+  "zipCode": "40219"
+}
 </pre>
