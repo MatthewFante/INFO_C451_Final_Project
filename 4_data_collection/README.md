@@ -1,13 +1,12 @@
 # Sheltr🐾 
-### Midterm Project Submission for INFO-C451: System Implementation (Spring 2024)
-### by Matthew Fante
+#### Final Project Submission for INFO-C451: System Implementation (Spring 2024)
+by Matthew Fante
 
 # Data Collection:
 
 Here are sample objects for each datatype that's written to FireBase: 
 
-
-## meet_and_greet_requests
+### meet_and_greet_requests
 
 <pre>
 {
@@ -24,7 +23,7 @@ Here are sample objects for each datatype that's written to FireBase:
 }
 </pre>
 
-## pets
+### pets
 
 <pre>
 { 
@@ -47,7 +46,7 @@ Here are sample objects for each datatype that's written to FireBase:
 }
 </pre>
 
-## upgrade_requests
+### upgrade_requests
 
 <pre>
 {
@@ -58,7 +57,7 @@ Here are sample objects for each datatype that's written to FireBase:
 }
 </pre>
 
-## user_profiles
+### user_profiles
 
 <pre>
 {
