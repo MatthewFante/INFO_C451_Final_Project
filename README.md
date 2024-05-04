@@ -4,7 +4,7 @@
 
 ## Demo Video
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dbr9OMpIipQ/0.jpg)](https://www.youtube.com/watch?v=dbr9OMpIipQ)
+[![Demo Video Screenshot](https://img.youtube.com/vi/t5eg0-udwso/0.jpg)](https://www.youtube.com/watch?v=t5eg0-udwso)
 
 __Note:__ _This repository was created to share code and supporting documentation for the Final Project Submission. The working repository for Sheltr is located [here](https://github.com/MatthewFante/Sheltr). The source code in directory *1_code* represents a snapshot of the contents of Sheltr/lib at [commit point e85a789](https://github.com/MatthewFante/Sheltr/commit/5d2251badec7b80cd488d55c99ebb9f2e8e51a9b)._
 
